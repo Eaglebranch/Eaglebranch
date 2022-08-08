@@ -1,5 +1,5 @@
 Hi 👋, I'm William 'Eaglebranch' Örnquist.<br>
-I have a big interest in creating gameplay through programming, solving problems and putting pieces together.
+I have a big interest in creating gameplay through programming, solving problems and make things work.
 
 I've lived my whole life playing and studying games of different genres and platforms,<br>
 which has built up my vast understanding of what makes games enjoyable and accessible.
